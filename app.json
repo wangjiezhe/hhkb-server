@@ -1,0 +1,7 @@
+{
+  "name": "hhkb server",
+  "description": "a server for hhkb",
+  "repository": "https://github.com/wangjiezhe/hhkb.git",
+  "logo": "https://avatars3.githubusercontent.com/u/195836?s=60",
+  "keywords": ["hhkb", "server", "golang"]
+}
